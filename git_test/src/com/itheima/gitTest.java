@@ -12,4 +12,9 @@ public class gitTest {
 
     }
 
+    public  void tser(){
+        int q=0;
+        q+=10;
+        System.out.println(q);
+    }
 }
